@@ -430,7 +430,7 @@ The hardware requirements vary depending on where and how you are running Dashy.
 
 If you are using one of the 1-click cloud deployment methods, serving the app through a CDN or using a static hosting provider, then there are no specific requirements, as the built app is just a series of static JS files, and so is very light-weight.
 
-Dashy also wells run on low-powered ARM-based single board computers, such as a Raspberry Pi (tested on Pi 3)
+Dashy also runs well on low-powered ARM-based single board computers, such as a Raspberry Pi (tested on Pi 3)
 
 **Browser Support**
 ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![IE](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Opera](https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
